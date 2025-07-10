@@ -1,1 +1,0 @@
-# YES_NO_APP
